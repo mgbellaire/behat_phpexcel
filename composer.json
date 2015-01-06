@@ -1,5 +1,9 @@
 {
   "require": {
-    "phpoffice/phpexcel": "1.8.0"
+    "phpoffice/phpexcel": "1.8.0",
+    "behat/behat": "2.5.3"
+  },
+  "config": {
+    "bin-dir": "bin/"
   }
 }
